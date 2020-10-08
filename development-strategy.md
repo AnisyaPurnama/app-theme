@@ -10,7 +10,7 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](wireframe app-theme.png)
+![wireframe](https://user-images.githubusercontent.com/67062698/95440838-b185b000-0959-11eb-8725-36457014b61f.png)
 
 ## 0. Set-Up
 
