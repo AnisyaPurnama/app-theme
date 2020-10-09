@@ -1,4 +1,4 @@
-#### App-theme
+# App-theme
 
 * This is a fictional website to build a responsive HTML & CSS file with Flexbox Grid. In addition to improve a Development Strategy, Git and Github skills.
 

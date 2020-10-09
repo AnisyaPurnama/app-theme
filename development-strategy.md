@@ -87,3 +87,4 @@ __A User can see my initial repository and live demo__
 ## Finishing Touches
 
 - Write final, complete README
+- Validate all the code
